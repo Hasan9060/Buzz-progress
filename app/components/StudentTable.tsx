@@ -67,18 +67,6 @@ export const StudentTable: React.FC<StudentTableProps> = ({
                             </td>
                             <td className="px-3 md:px-6 py-3 md:py-4">
                                 <div className="flex items-center gap-1 md:gap-2">
-                                    {/* Decrement Button */}
-                                    <button
-                                        onClick={(e) => handleDecrement(student, e)}
-                                        disabled={student.percentage <= 0}
-                                        className="w-7 h-7 md:w-8 md:h-8 flex items-center justify-center bg-red-500 hover:bg-red-600 disabled:bg-gray-300 disabled:cursor-not-allowed text-white rounded-lg transition-colors shadow-md hover:shadow-lg flex-shrink-0"
-                                        title="Decrease percentage"
-                                    >
-                                        <svg className="w-3 h-3 md:w-4 md:h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M19 9l-7 7-7-7" />
-                                        </svg>
-                                    </button>
-
                                     <div className="flex flex-col items-center gap-1 min-w-[60px] md:min-w-[80px]">
                                         <span className="text-lg md:text-2xl font-bold text-indigo-600">{student.percentage}%</span>
                                         <div className="bg-gray-200 rounded-full h-1.5 md:h-2 w-full">
@@ -88,18 +76,6 @@ export const StudentTable: React.FC<StudentTableProps> = ({
                                             />
                                         </div>
                                     </div>
-
-                                    {/* Increment Button */}
-                                    <button
-                                        onClick={(e) => handleIncrement(student, e)}
-                                        disabled={student.percentage >= 100}
-                                        className="w-7 h-7 md:w-8 md:h-8 flex items-center justify-center bg-green-500 hover:bg-green-600 disabled:bg-gray-300 disabled:cursor-not-allowed text-white rounded-lg transition-colors shadow-md hover:shadow-lg flex-shrink-0"
-                                        title="Increase percentage"
-                                    >
-                                        <svg className="w-3 h-3 md:w-4 md:h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 15l7-7 7 7" />
-                                        </svg>
-                                    </button>
                                 </div>
                             </td>
                             <td className="px-3 md:px-6 py-3 md:py-4">
