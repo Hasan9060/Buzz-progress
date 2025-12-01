@@ -1,0 +1,217 @@
+{
+    "groups": [
+        {
+            "id": "g1",
+            "name": "Web Development Buzz Wing ★",
+            "cr": null
+        },
+        {
+            "id": "g2",
+            "name": "Graphic Designer Buzz Wing ★",
+            "cr": null
+        },
+        {
+            "id": "g3",
+            "name": "Photography Buzz Wing ★",
+            "cr": null
+        },
+        {
+            "id": "g4",
+            "name": "Magazine Designer Buzz Wing ★",
+            "cr": null
+        }
+    ],
+    "students": [
+        {
+            "id": "s1",
+            "name": "Annus Mughal",
+            "groupId": "g1",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AnnusMughalWeb",
+            "percentage": 0
+        },
+        {
+            "id": "s2",
+            "name": "Ponaar Ali",
+            "groupId": "g1",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=PonaarAli",
+            "percentage": 0
+        },
+        {
+            "id": "s3",
+            "name": "Mishal Hussain",
+            "groupId": "g1",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MishalHussain",
+            "percentage": 0
+        },
+        {
+            "id": "s4",
+            "name": "Benazir Abbasi",
+            "groupId": "g1",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=BenazirAbbasi",
+            "percentage": 0
+        },
+        {
+            "id": "s5",
+            "name": "Jibrael Ayan Malik",
+            "groupId": "g1",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=JibraelAyanMalikWeb",
+            "percentage": 0
+        },
+        {
+            "id": "s6",
+            "name": "Umama Tofique",
+            "groupId": "g1",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=UmamaTofique",
+            "percentage": 0
+        },
+        {
+            "id": "s7",
+            "name": "Noorulain Ahmed",
+            "groupId": "g1",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=NoorulainAhmed",
+            "percentage": 0
+        },
+        {
+            "id": "s8",
+            "name": "Annus Mughal",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AnnusMughalGraphic",
+            "percentage": 0
+        },
+        {
+            "id": "s9",
+            "name": "Minahil Saba",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MinahilSaba",
+            "percentage": 0
+        },
+        {
+            "id": "s10",
+            "name": "Momna Simran",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MomnaSimran",
+            "percentage": 0
+        },
+        {
+            "id": "s11",
+            "name": "Aiman Zahra",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AimanZahra",
+            "percentage": 0
+        },
+        {
+            "id": "s12",
+            "name": "Syeda Manahi",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SyedaManahi",
+            "percentage": 0
+        },
+        {
+            "id": "s13",
+            "name": "Muhammad Hussain",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=MuhammadHussain",
+            "percentage": 0
+        },
+        {
+            "id": "s14",
+            "name": "Zayan Bin Ikram",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ZayanBinIkram",
+            "percentage": 0
+        },
+        {
+            "id": "s15",
+            "name": "Eman Talib",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=EmanTalib",
+            "percentage": 0
+        },
+        {
+            "id": "s16",
+            "name": "Rubbab Haider Jaffri",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RubbabHaiderJaffri",
+            "percentage": 0
+        },
+        {
+            "id": "s17",
+            "name": "Hania Baig",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HaniaBaig",
+            "percentage": 0
+        },
+        {
+            "id": "s18",
+            "name": "Jibrael Ayan Malik",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=JibraelAyanMalikGraphic",
+            "percentage": 0
+        },
+        {
+            "id": "s19",
+            "name": "Fatima Gulzar",
+            "groupId": "g2",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=FatimaGulzar",
+            "percentage": 0
+        },
+        {
+            "id": "s20",
+            "name": "Hassan Kashif",
+            "groupId": "g3",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=HassanKashif",
+            "percentage": 0
+        },
+        {
+            "id": "s21",
+            "name": "Salwa",
+            "groupId": "g3",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=Salwa",
+            "percentage": 0
+        },
+        {
+            "id": "s22",
+            "name": "Javeria Javed",
+            "groupId": "g3",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=JaveriaJaved",
+            "percentage": 0
+        },
+        {
+            "id": "s23",
+            "name": "Amna Rashid",
+            "groupId": "g3",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=AmnaRashid",
+            "percentage": 0
+        },
+        {
+            "id": "s24",
+            "name": "Rubab Haider",
+            "groupId": "g4",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=RubabHaider",
+            "percentage": 0
+        },
+        {
+            "id": "s25",
+            "name": "Syeda Manahil",
+            "groupId": "g4",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=SyedaManahil",
+            "percentage": 0
+        },
+        {
+            "id": "s26",
+            "name": "Manahil Saba",
+            "groupId": "g4",
+            "photo": "https://api.dicebear.com/7.x/avataaars/svg?seed=ManahilSaba",
+            "percentage": 0
+        }
+    ],
+    "settings": {
+        "starThresholds": [
+            20,
+            40,
+            60,
+            80,
+            100
+        ]
+    }
+}
